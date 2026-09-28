@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.hj8894.cn/sitemap.xml
